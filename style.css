@@ -1,0 +1,155 @@
+h1{
+
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px ;
+}
+
+
+body{
+
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+
+    font-size: 40px;
+    color: slategray;
+}
+.unique{
+
+    color: crimson;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    color: slategray;
+    font-weight: 400;
+    font-size: 30px ;
+}
+.title{
+    margin-bottom: -35px;
+}
+.border{
+border-left: 5px solid;
+border-image-slice: 1 ;
+color: coral;
+}
+p{
+
+color: rgb(64, 70, 73);
+}
+section{
+    display:flex;
+    margin-bottom: 100px;
+}
+.box{
+    width: 50%;
+    padding-left: 5%;
+    
+}
+.another-box img{
+    width:50%;
+    
+}
+.first-card{
+    background-color: rgb(123, 182, 172);
+}
+.second-card{
+    background-color: rgb(221, 209, 106);
+}
+.third-card{
+    background-color: rgb(220, 160, 243);
+}
+.box img{
+    width:80%
+}
+.linked-button{
+
+    text-decoration: none;
+    background-color: crimson;
+    font-weight: 700;
+    padding:10px 40px;
+    border-radius: 5px;
+    color:white
+    
+}
+
+.button{
+
+    text-decoration: none;
+    background-color: crimson;
+    font-weight: 700;
+    padding:10px 40px;
+    border-radius: 5px;
+    color:white
+    
+
+
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+    border-radius: 50px;
+}
+.experience-area{
+
+text-align: center;
+}
+.experienced{
+    width:40%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+    border-radius: 5px;
+    border-left: 5px crimson;
+
+   
+    padding-left:10px ;
+    
+    
+}
+#baby img{
+    width: 144px;
+}
+
+#baby{
+    
+    border-image-slice: 1 ;
+    margin: 5px;
+    border-radius: 50px;
+}
+
+.goal{
+    text-align: center;
+}
+
+.goalbox img{
+    position: center;
+}
+.footer{
+    text-align: center;
+    color: darkmagenta;
+}
+.more{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.more img{
+    width: 400px;
+    border-radius: 15px;
+
+}
+
+.bonus-part{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer{
+    background-color: black;
+    height: 10 px;
+}
+.redish{
+    color: crimson;
+}
